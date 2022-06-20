@@ -24,3 +24,10 @@ bull2=False
 print("bull1 and bull 2 is ", bull1 and bull2)
 print("bull1 or bull2 is ", bull1 or bull2)
 print("not of bull1", not bull1)
+# converting
+a = input("Enter your age= ")
+print (a)
+print(type(a)) #here the output will be str just because we have taken the input as str(if possible)
+a= int(a)
+print(type(a))#here the output will be int because we have converted the input into int(if possible)
+#we can convert int to str and str to int exactly like  that. BUt not always. 
