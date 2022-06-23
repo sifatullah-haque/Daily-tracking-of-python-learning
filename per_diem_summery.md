@@ -6,3 +6,5 @@ Day_1(20.06.22; 12.00pm -4.00pm): Finally solved a huge problem of push issue it
 Day_2(21.06.2022; 3.00pm-3.30pm): It was an easy day. completed everything easily .. nothing to worry about. solved some problem and worked on customizing my GitHub profile. thats all for today.
 
 day_3(22.06.2022; 3.00pm-4.00pm): there was a couple of break today between learning.. but finally completed  the class today. so fas so good everything going all okay right now. hoping for a great day tomorrow.
+
+day_4(23.06.2022; 11pm-1.35am): it was a roller coster ride. started a new course, and hoping for the best .. so far so good. completed the basic again with learning so many thing new.. tomorrow we will maybe start conditional statement. 
